@@ -1,5 +1,6 @@
-# Ingredients
+# Title
+## Ingredients
 -banana
 -lime
-# Instructions
+## Instructions
 
